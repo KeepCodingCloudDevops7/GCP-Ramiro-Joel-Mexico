@@ -4,4 +4,4 @@ cuenta de @javioreto
 
 
 
- ! [alt tag] (http://url/to/img.png)
+ ! [alt tag] (https://github.com/KeepCodingCloudDevops7/GCP-Ramiro-Joel-Mexico/blob/main/practica-gcp.png)
